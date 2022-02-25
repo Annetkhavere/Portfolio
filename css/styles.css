@@ -7,3 +7,10 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+.column {
+  float: left;
+  width: 500px;
+}
+body {
+  background-color: #fff5bb;
+}
