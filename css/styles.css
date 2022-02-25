@@ -12,16 +12,17 @@ img {
   background-color: black;
 }
 body {
-  background-color: #ffffff;
+  background-color: whitesmoke;
   font-family: sans-serif;
   
 }
 h2 {
   color: rgb(255, 127, 127);
   text-align: center;
+  background-color: black;
 }
 ul {
-  color: lightblue;
+  color: black;
   
 }
 ul p {
@@ -29,13 +30,15 @@ ul p {
 }
 .container {
   width: 60%;
-  text-align: center;
   margin-left: auto;
   margin-right: auto;
   background-color: bisque;
+  padding: 20px;
 }
 .projects {
-  width: 100%;
-  text-align: center;
-
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: bisque;
+  padding: 20px;
 }
