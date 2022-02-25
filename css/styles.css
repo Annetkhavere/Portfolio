@@ -1,5 +1,6 @@
 h1 {
   text-align: center;
+  color: rgb(255, 127, 127);
 }
 img {
   display: block;
@@ -7,10 +8,9 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-.column {
-  float: left;
-  width: 500px;
-}
 body {
-  background-color: #fff5bb;
+  background-color: #ffffff;
+}
+h2 {
+  color: rgb(255, 127, 127);
 }
