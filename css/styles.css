@@ -14,6 +14,7 @@ img {
 body {
   background-color: whitesmoke;
   font-family: sans-serif;
+  margin-bottom: 20px;
   
 }
 h2 {
@@ -41,4 +42,5 @@ ul p {
   margin-right: auto;
   background-color: bisque;
   padding: 20px;
+  margin-bottom: 20px;
 }
