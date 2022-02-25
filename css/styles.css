@@ -1,18 +1,40 @@
 h1 {
   text-align: center;
   color: rgb(255, 127, 127);
+  background-color: black;
 }
 img {
-  display: block;
   width: 60%;
   margin-left: auto;
   margin-right: auto;
+  padding: 20px;
+  display: block;
+  background-color: black;
 }
 body {
   background-color: #ffffff;
   font-family: sans-serif;
-  padding: 20px;
+  
 }
 h2 {
   color: rgb(255, 127, 127);
+  text-align: center;
+}
+ul {
+  color: lightblue;
+  
+}
+ul p {
+  color: black;
+}
+.container {
+  width: 60%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.projects {
+  width: 100%;
+  text-align: center;
+
 }
