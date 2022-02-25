@@ -32,6 +32,7 @@ ul p {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  background-color: bisque;
 }
 .projects {
   width: 100%;
